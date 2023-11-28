@@ -4,7 +4,7 @@
 A Page has a header, footer, and six sections. Includes carousel, "drop-down" menu, form to sending messages, and references to itself parts.
 With technical side has semantic tags, a file with reset properties, inputs with types and requirements, and hover effects for all interacting elements.
 The project has four screen extensions:
-  - mobile (to 639px)
+  - mobile (to 639px);
   - tablet (640-1023px);
   - small desktop (1024-1259px);
   - desktop (from 1260px).
@@ -21,7 +21,7 @@ The project has four screen extensions:
   - correct working of the "carousel".
 
 ## DEMO LINK:
-https://Soi4An.github.io/layout_dia/
+https://soi4an.github.io/business-strategy-landing/
 
 ## Figma design:
 https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35 - where the darck page was selected.
